@@ -42,7 +42,7 @@ Integration with the Solana Ecosystem (In Development):
 
 # Technical Architecture
 
-The technical infrastructure of QuackAI is based on a modular, cloud-based, serverless microservices architecture. It is designed for scalability, high-speed data processing, and seamless communication between specialized AI agents.
+The technical infrastructure of QuackAI is based on a modular, cloud-based, serverless microservices architecture. It is designed for scalability, high-speed data processing, and seamless communication between specialized AI agents. It leverages the Semantic Kernel Framework and GPT models for analysis and decision-making.
 
 Specialized Agents
 
